@@ -6,7 +6,7 @@ project at Epicodus to test knowlege of html and css skills before moving on to 
 
 ## Setup/Installation Requirements
 - load index.html in a web browser
-- visit my [GitHub pages](pizzimenti.github.io)
+- visit my [GitHub pages](http://pizzimenti.github.io) site to see it rendered.
 
 ## Known Bugs
 Does not incorporate any JavaScript yet.
