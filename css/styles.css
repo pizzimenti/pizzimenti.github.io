@@ -15,6 +15,7 @@
     margin-left: 25px;
     margin-right: 25px;
     text-decoration: none;
+    color: white;
 }
 
 
@@ -30,6 +31,11 @@ body {
   background-color: gray;
 }
 
+body a {
+  color:inherit;
+  text-decoration: underline;
+}
+
 .section-title {
   text-align: center;
   background-color: dimGrey;
@@ -40,7 +46,6 @@ body {
   font-family: monospace;
   font-size: 1.2em;
   text-align: justify;
-  margin-bottom: 200px;
 }
 
 #projects a {
@@ -66,4 +71,17 @@ body {
   padding: 4px;
   margin-right: 20px;
   width: 300px;
+}
+
+#about-me {
+  font-family: sans-serif;
+}
+
+#about-me p {
+  font-size: 1.3em;
+}
+
+.nav-section {
+  margin-top: 200px;
+  margin-bottom: 200px;
 }
