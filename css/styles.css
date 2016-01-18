@@ -33,6 +33,13 @@ body {
   font-size: 1.5em;
 }
 
+.project-ol {
+  float: right;
+  border: solid 4px dimGrey;
+  padding: 1em;
+  margin-left: 20px;
+}
+
 #projects img {
   float: left;
   border: solid 4px dimGrey;
