@@ -16,21 +16,31 @@
 }
 
 
-
-
 .jumbotron h1 {
   font-size: 3em;
 }
-
 .jumbotron h2 {
   font-size: 1.6em;
 }
 
+
 body {
-  background-color: gray
+  background-color: gray;
 }
 
-.column {
+#projects {
+  font-family: monospace;
+  font-size: 1.5em;
+}
+
+#projects img {
+  float: left;
+  border: solid 4px dimGrey;
+  padding: 4px;
+  margin-right: 20px;
+}
+
+.project-desc {
   width: 50%;
   height: 100px;
 }
