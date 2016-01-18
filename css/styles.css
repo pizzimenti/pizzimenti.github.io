@@ -1,3 +1,22 @@
 #pagehead {
   text-align: center;
+  background-color: dimGrey;
+  border: 4px solid black;
+}
+
+.jumbotron h1 {
+  font-size: 3em;
+}
+
+.jumbotron h2 {
+  font-size: 1.6em;
+}
+
+body {
+  background-color: gray
+}
+
+.column {
+  width: 50%;
+  height: 100px;
 }
