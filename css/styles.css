@@ -2,6 +2,8 @@
   text-align: center;
   background-color: dimGrey;
   border: 4px solid black;
+  margin-bottom: 150px;
+  margin-top: 10px;
 }
 
 
@@ -28,10 +30,27 @@ body {
   background-color: gray;
 }
 
+.section-title {
+  text-align: center;
+  background-color: dimGrey;
+  border: solid black;
+}
+
 #projects {
   font-family: monospace;
   font-size: 1.5em;
   text-align: justify;
+  margin-bottom: 200px;
+}
+
+#projects a {
+  text-decoration: underline;
+  color: inherit;
+}
+
+.project {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .project-ol {
@@ -47,8 +66,3 @@ body {
   padding: 4px;
   margin-right: 20px;
 }
-/*
-.project-desc {
-  width: 50%;
-  height: 100px;
-}*/
