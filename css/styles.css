@@ -31,6 +31,7 @@ body {
 #projects {
   font-family: monospace;
   font-size: 1.5em;
+  text-align: justify;
 }
 
 .project-ol {
@@ -46,8 +47,8 @@ body {
   padding: 4px;
   margin-right: 20px;
 }
-
+/*
 .project-desc {
   width: 50%;
   height: 100px;
-}
+}*/
